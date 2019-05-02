@@ -16,7 +16,7 @@ function divide(a, b){
 function inc(a, b){
   return n += 1
 }
-function dec(){
+function dec(a,){
   
 }
 function makeInt(){
